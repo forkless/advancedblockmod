@@ -24,4 +24,5 @@ Original Author: Martin Truckenbrodt
 
 TODO:
 - Add whitelisting feature
+- CIDR country block feature
 - Add ACL for spam report button
